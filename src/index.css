@@ -1,0 +1,12 @@
+/*tw, of course*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+    note: ideally each component should have its own css file
+*/
+.movie-marked{
+    color: 'white';
+    background-color: #f4a742;
+}
